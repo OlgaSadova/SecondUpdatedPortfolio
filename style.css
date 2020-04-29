@@ -21,7 +21,7 @@
                                    a {
                                        font-family: cursive;
                                        font-weight: bold;
-                                       font-size: 5mm;
+                                       font-size: 6mm;
                                    }
                                    
                                    h1 {
@@ -137,4 +137,8 @@
                                    
                                    .git {
                                        text-align: center;
+                                   }
+                                   
+                                   .nav-link {
+                                       font-size: 6mm;
                                    }
